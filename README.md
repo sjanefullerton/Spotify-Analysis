@@ -1,2 +1,4 @@
 # Spotify-Analysis
-A deep dive into Spotify’s musical landscape. Applied Machine Learning working on group 48 Spotify project.
+**48.pdf** is summary report of findings. 
+
+Applied Machine Learning working on group 48 Spotify project: conducted a deep dive into Spotify’s musical landscape. 
