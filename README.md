@@ -7,15 +7,16 @@ Conducted a comprehensive analysis of Spotify’s Top 200 global dataset (2017�
 
 ### Key Contributions & Methods:
 
-#### Exploratory Data Analysis: Examined temporal trends in audio features (danceability, energy, acousticness, valence, speechiness, loudness, instrumentalness) across years, seasons, holidays, and days of the week; identified shifts in music trends during COVID-19, including lower energy and danceability and increased acousticness.
+#### Exploratory Data Analysis
+Examined temporal trends in audio features (danceability, energy, acousticness, valence, speechiness, loudness, instrumentalness) across years, seasons, holidays, and days of the week; identified shifts in music trends during COVID-19, including lower energy and danceability and increased acousticness.
 
-#### Genre & Collaboration Insights: Mapped songs to genres (EDM, Pop, Hip-Hop/Rap, R&B, Latin) and analyzed collaborative effects, confirming that songs with multiple artists generally have higher popularity. Investigated genre distribution changes over time, e.g., surges in Pop and Latin songs post-2020.
+* Genre & Collaboration Insights: Mapped songs to genres (EDM, Pop, Hip-Hop/Rap, R&B, Latin) and analyzed collaborative effects, confirming that songs with multiple artists generally have higher popularity. Investigated genre distribution changes over time, e.g., surges in Pop and Latin songs post-2020.
 
-#### Machine Learning & Clustering: Applied spectral clustering to classify songs by audio features, revealing connected clusters corresponding to genres (Pop, EDM, R&B, Hip-Hop/Rap) and confirming that numerical features alone only partially define genre boundaries.
+* Machine Learning & Clustering: Applied spectral clustering to classify songs by audio features, revealing connected clusters corresponding to genres (Pop, EDM, R&B, Hip-Hop/Rap) and confirming that numerical features alone only partially define genre boundaries.
 
-#### Predictive Modeling: Used random forest regression to predict song popularity from audio features and collaboration metrics, identifying the relative importance of features, even though the model’s predictive performance was limited due to inherent variability in music popularity.
+* Predictive Modeling: Used random forest regression to predict song popularity from audio features and collaboration metrics, identifying the relative importance of features, even though the model’s predictive performance was limited due to inherent variability in music popularity.
 
-#### Visualization & Reporting: Created radar charts, heatmaps, bar plots, and correlation matrices to communicate nuanced trends and insights, highlighting seasonal effects, top songs, and genre-specific audio profiles.
+* Visualization & Reporting: Created radar charts, heatmaps, bar plots, and correlation matrices to communicate nuanced trends and insights, highlighting seasonal effects, top songs, and genre-specific audio profiles.
 
 ### Impact & Insights:
 
